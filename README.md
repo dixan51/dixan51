@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dixan51
+- 👋 Hi, I’m @MDG
 - 👀 I’m interested in AI / Disco Diffusion
 - 🌱 I’m currently learning AI / Disco Diffusion
 - 💞️ I’m looking to collaborate on 
